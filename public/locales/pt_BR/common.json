@@ -1018,6 +1018,12 @@
         "merges": "Solicitações de mesclagem",
         "projects": "Projetos"
     },
+    "backrest": {
+        "num_plans": "Planos",
+        "num_success": "Sucessos",
+        "num_failure": "Falhas",
+        "bytes_added": "Bytes adicionados"
+    },
     "apcups": {
         "status": "Status",
         "load": "Carga",
